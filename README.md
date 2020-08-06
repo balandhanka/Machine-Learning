@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains implementation of basics to advance hands on machine learning algorithms with popular datasets.
+This repository contains implementation of basics and advance hands on machine learning algorithms with popular datasets.
